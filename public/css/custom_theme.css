@@ -1,0 +1,31 @@
+a:hover {
+  color: black;
+}
+
+.overlay {
+  background: linear-gradient(150deg, #7795f8 15%, #6772e5 70%, #555abf 94%) !important;
+}
+
+.banner-content .form-wrap {
+  background-color: #555abf;
+  border: 1px solid #555abf;
+  padding: 20px 0;
+  border-radius: 5px;
+  margin: 40px 0;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07) !important;
+}
+
+.nice-select .list {
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07) !important;
+}
+.nice-select .list .option.selected {
+  color: #172b4d !important;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 500;
+}
+.nice-select .list .option.selected:hover {
+  color: #172b4d;
+}
+
+/*# sourceMappingURL=custom_theme.css.map */
